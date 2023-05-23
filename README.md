@@ -89,7 +89,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/wem1c/Learn-To-LOVE/blob/master/LICENSE.txt
+[license-url]: https://github.com/wem1c/Learn-To-LOVE/blob/master/LICENSE
 [Lua-shield]: https://img.shields.io/badge/Lua-5B1B1B?style=for-the-badge&logo=lua&logoColor=white
 [Lua-url]: https://www.lua.org/
 [LOVE-shield]: https://img.shields.io/badge/LÖVE-5B1B1B?style=for-the-badge&logo=love&logoColor
