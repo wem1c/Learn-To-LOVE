@@ -67,16 +67,6 @@ pacman -S love
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [ ] Upgrade games
-  - [ ] Pong
-  - [ ] Platformer
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
